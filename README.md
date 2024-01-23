@@ -1,6 +1,6 @@
 This is code for Arduino Nano for create Bluetooth Robot Crab.
 
-Program by. MEGA HEDGE
+Program by. m3ga
 
 Программа для управления роботом Краб для РобоФутбола по Bluetooth (модуль HC-05) из приложения на Android "Bluetooth RC CAR".
 
